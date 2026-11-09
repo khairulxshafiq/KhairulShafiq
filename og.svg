@@ -1,35 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Khairul Shafiq, exploring IT and AI">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.55" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#e0f2fe"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0" r="0.7">
+      <stop offset="0" stop-color="#155dfc" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#155dfc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
   <style>
     @font-face {
-      font-family: Fraunces;
-      src: url("assets/fonts/fraunces-latin.woff2") format("woff2");
+      font-family: Inter;
+      src: url("assets/fonts/inter-latin.woff2") format("woff2");
       font-weight: 100 900;
       font-display: swap;
     }
     @font-face {
-      font-family: Outfit;
-      src: url("assets/fonts/outfit-latin.woff2") format("woff2");
+      font-family: "JetBrains Mono";
+      src: url("assets/fonts/jetbrains-latin.woff2") format("woff2");
       font-weight: 100 900;
       font-display: swap;
     }
-    .name { font-family: Fraunces, Georgia, serif; font-weight: 560; font-size: 92px; letter-spacing: -1.4px; fill: #1b1914; }
-    .role { font-family: Fraunces, Georgia, serif; font-weight: 520; font-size: 40px; fill: #123f3c; }
-    .sub { font-family: Outfit, sans-serif; font-weight: 450; font-size: 22px; fill: #3a342c; }
-    .foot { font-family: Outfit, sans-serif; font-weight: 600; font-size: 20px; fill: #514b42; }
-    .url { font-family: Outfit, sans-serif; font-weight: 500; font-size: 18px; fill: #123f3c; }
-    .place { font-family: Outfit, sans-serif; font-weight: 600; font-size: 18px; letter-spacing: 2.4px; fill: #514b42; }
-    .ks { font-family: Outfit, sans-serif; font-weight: 640; font-size: 30px; fill: #f6f1e7; }
+    .name { font-family: Inter, sans-serif; font-weight: 800; font-size: 84px; letter-spacing: -2.4px; fill: #f2f4ff; }
+    .role { font-family: Inter, sans-serif; font-weight: 700; font-size: 36px; letter-spacing: -0.6px; fill: url(#name); }
+    .sub { font-family: Inter, sans-serif; font-weight: 500; font-size: 24px; fill: #b7bddf; }
+    .foot { font-family: "JetBrains Mono", monospace; font-weight: 600; font-size: 16px; letter-spacing: 1px; fill: #94a3b8; }
+    .url { font-family: "JetBrains Mono", monospace; font-weight: 500; font-size: 16px; fill: #93c5fd; }
+    .place { font-family: "JetBrains Mono", monospace; font-weight: 600; font-size: 16px; letter-spacing: 2.2px; fill: #94a3b8; }
+    .ks { font-family: Inter, sans-serif; font-weight: 800; font-size: 26px; fill: #ffffff; }
   </style>
-  <rect width="1200" height="630" fill="#f3efe6"/>
-  <rect width="16" height="630" fill="#123f3c"/>
-  <rect x="68" y="58" width="72" height="72" rx="16" fill="#123f3c"/>
-  <text class="ks" x="104" y="103" text-anchor="middle">KS</text>
+  <rect width="1200" height="630" fill="#060821"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="68" y="56" width="72" height="72" rx="16" fill="#155dfc"/>
+  <text class="ks" x="104" y="102" text-anchor="middle">KS</text>
   <text class="place" x="1132" y="100" text-anchor="end">SHAH ALAM, MALAYSIA</text>
-  <text class="name" x="68" y="290">Khairul Shafiq</text>
-  <rect x="68" y="328" width="80" height="5" fill="#123f3c"/>
-  <text class="role" x="68" y="400">Exploring IT and AI</text>
-  <text class="sub" x="68" y="458">Infrastructure, backup, architecture, websites and more.</text>
-  <rect x="68" y="528" width="1064" height="1" fill="#ddd4c4"/>
-  <text class="foot" x="68" y="574">Microsoft 365   ·   Backup   ·   Websites   ·   Local AI</text>
-  <text class="url" x="1132" y="574" text-anchor="end">khairulxshafiq.github.io</text>
+  <text class="name" x="68" y="280">Khairul Shafiq</text>
+  <rect x="68" y="314" width="72" height="4" fill="#3b82f6"/>
+  <text class="role" x="68" y="378">Exploring IT and AI</text>
+  <text class="sub" x="68" y="430">Infrastructure, backup, architecture, websites and more.</text>
+  <rect x="68" y="520" width="1064" height="1" fill="#ffffff1a"/>
+  <text class="foot" x="68" y="566">MICROSOFT 365   ·   BACKUP   ·   WEBSITES   ·   LOCAL AI</text>
+  <text class="url" x="1132" y="566" text-anchor="end">khairulxshafiq.github.io</text>
 </svg>
