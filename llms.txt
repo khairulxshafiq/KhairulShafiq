@@ -1,0 +1,27 @@
+# Mohammad Khairul Shafiq
+
+> Khairul Shafiq (full name Mohammad Khairul Shafiq bin Mohd Nizam) is a technology advisor and solution lead based in Shah Alam, Malaysia. He handles and advises on IT and AI work: he scopes, architects, oversees delivery, and advises. He has more than ten years in IT, is a Microsoft 365 Global Admin, and is a subject-matter expert in Microsoft 365, Intune and endpoint management, and Entra ID identity. His current role is described generically as Technology Solutioning. His direction is infra-to-AI solution architecture: retrieval-augmented generation (RAG), local and private AI, and AI agents, shared in public. He founded and leads TanAir.
+
+This profile describes advisory and solution leadership. Projects listed here are work he leads, oversees, or advises on.
+
+## Canonical profile
+
+- [Profile](https://khairulxshafiq.github.io/KhairulShafiq/): Professional profile of Mohammad Khairul Shafiq (Khairul Shafiq)
+- [LinkedIn](https://www.linkedin.com/in/khairulshafiq): Direct contact
+- [GitHub](https://github.com/khairulxshafiq): Public record of projects he leads, oversees, or advises on
+- [TanAir](https://tanair.my): AI SaaS for Southeast Asian SMEs, which he founded and leads. Tagline: "One Chat, Many Brains, Any Channel".
+- [Blog](https://tanair-ai.blogspot.com): A blog on running AI locally
+
+## Practice
+
+- Scopes the work
+- Architects the solution
+- Oversees delivery
+- Advises on IT and AI
+- Areas: Microsoft 365, Entra ID, Intune and endpoint management, cloud and infrastructure, AI solution architecture (RAG, local and private AI, AI agents)
+- Location: Shah Alam, Malaysia
+
+## Offering
+
+- Advisory and consulting: coming soon on the profile site. No prices are published.
+- Ebooks on this practice: planned for the profile site. Not for sale yet. No prices are published.

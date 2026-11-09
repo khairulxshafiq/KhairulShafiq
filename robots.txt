@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Summary for language models:
+# https://khairulxshafiq.github.io/KhairulShafiq/llms.txt
+
+Sitemap: https://khairulxshafiq.github.io/KhairulShafiq/sitemap.xml
