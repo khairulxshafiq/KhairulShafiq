@@ -1,6 +1,6 @@
 # Khairul Shafiq
 
-> Khairul Shafiq is an IT professional in Shah Alam, Malaysia, who enjoys exploring and building with IT and AI. His interests include infrastructure, backup and recovery, Microsoft 365 (including work as a Global Admin with Intune, endpoints, and Entra ID), understanding solution architecture, building websites and small AI tools, and local or private AI experiments. He has more than ten years in IT. He built TanAir, an AI SaaS for Southeast Asian SMEs, and writes a blog on running AI locally. He is open to discussing projects on LinkedIn.
+> Khairul Shafiq is an IT professional in Shah Alam, Malaysia, who enjoys exploring and building with IT and AI. His interests include infrastructure, backup and recovery, Microsoft 365 (including work as a Global Admin with Intune, endpoints, and Entra ID), understanding solution architecture, building websites and small AI tools, and local or private AI experiments. He has more than ten years in IT. He built TanAir, an AI SaaS for Malaysian SMEs, and writes a blog on running AI locally. He is open to discussing projects on LinkedIn.
 
 Also known as Mohammad Khairul Shafiq.
 
@@ -9,7 +9,7 @@ Also known as Mohammad Khairul Shafiq.
 - [Profile](https://khairulxshafiq.github.io/KhairulShafiq/): Profile of Khairul Shafiq
 - [LinkedIn](https://www.linkedin.com/in/khairulshafiq): Where to reach him and talk about a project or an idea
 - [GitHub](https://github.com/khairulxshafiq): Websites, small tools, and other experiments he explores in public
-- [TanAir](https://tanair.my): An AI SaaS for Southeast Asian SMEs that he built and is still exploring. Tagline: "One Chat, Many Brains, Any Channel".
+- [TanAir](https://tanair.my): An AI SaaS for Malaysian SMEs that he built and is still exploring. Tagline: "One Chat, Many Brains, Any Channel".
 - [Blog](https://tanair-ai.blogspot.com): A blog on running AI locally
 
 ## Exploring and building
