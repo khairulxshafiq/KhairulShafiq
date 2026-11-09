@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Khairul Shafiq, technology advisor and solution lead">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Khairul Shafiq, exploring IT and AI">
   <style>
     @font-face {
       font-family: Fraunces;
@@ -27,9 +27,9 @@
   <text class="place" x="1132" y="100" text-anchor="end">SHAH ALAM, MALAYSIA</text>
   <text class="name" x="68" y="290">Khairul Shafiq</text>
   <rect x="68" y="328" width="80" height="5" fill="#123f3c"/>
-  <text class="role" x="68" y="400">Technology advisor and solution lead</text>
-  <text class="sub" x="68" y="458">Scopes, architects, oversees delivery, and advises on IT and AI.</text>
+  <text class="role" x="68" y="400">Exploring IT and AI</text>
+  <text class="sub" x="68" y="458">Infrastructure, backup, architecture, websites and more.</text>
   <rect x="68" y="528" width="1064" height="1" fill="#ddd4c4"/>
-  <text class="foot" x="68" y="574">Microsoft 365   ·   Entra ID   ·   Intune   ·   AI architecture</text>
+  <text class="foot" x="68" y="574">Microsoft 365   ·   Backup   ·   Websites   ·   Local AI</text>
   <text class="url" x="1132" y="574" text-anchor="end">khairulxshafiq.github.io</text>
 </svg>
