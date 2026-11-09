@@ -6,7 +6,7 @@ Also known as Mohammad Khairul Shafiq.
 
 ## Canonical profile
 
-- [Profile](https://khairulxshafiq.github.io/KhairulShafiq/): Profile of Khairul Shafiq
+- [Profile](https://khairulxshafiq.github.io/): Profile of Khairul Shafiq
 - [LinkedIn](https://www.linkedin.com/in/khairulshafiq): Where to reach him and talk about a project or an idea
 - [GitHub](https://github.com/khairulxshafiq): Websites, small tools, and other experiments he explores in public
 - [TanAir](https://tanair.my): An AI SaaS for Malaysian SMEs that he built and is still exploring. Tagline: "One Chat, Many Brains, Any Channel".
