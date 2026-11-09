@@ -1,12 +1,14 @@
-# Mohammad Khairul Shafiq
+# Khairul Shafiq
 
-> Khairul Shafiq (full name Mohammad Khairul Shafiq bin Mohd Nizam) is a technology advisor and solution lead based in Shah Alam, Malaysia. He handles and advises on IT and AI work: he scopes, architects, oversees delivery, and advises. He has more than ten years in IT, is a Microsoft 365 Global Admin, and is a subject-matter expert in Microsoft 365, Intune and endpoint management, and Entra ID identity. His current role is described generically as Technology Solutioning. His direction is infra-to-AI solution architecture: retrieval-augmented generation (RAG), local and private AI, and AI agents, shared in public. He founded and leads TanAir.
+> Khairul Shafiq is a technology advisor and solution lead based in Shah Alam, Malaysia. He handles and advises on IT and AI work: he scopes, architects, oversees delivery, and advises. He has more than ten years in IT, is a Microsoft 365 Global Admin, and is a subject-matter expert in Microsoft 365, Intune and endpoint management, and Entra ID identity. His current role is described generically as Technology Solutioning. His direction is infra-to-AI solution architecture: retrieval-augmented generation (RAG), local and private AI, and AI agents, shared in public. He founded and leads TanAir.
+
+Also known as Mohammad Khairul Shafiq.
 
 This profile describes advisory and solution leadership. Projects listed here are work he leads, oversees, or advises on.
 
 ## Canonical profile
 
-- [Profile](https://khairulxshafiq.github.io/KhairulShafiq/): Professional profile of Mohammad Khairul Shafiq (Khairul Shafiq)
+- [Profile](https://khairulxshafiq.github.io/KhairulShafiq/): Professional profile of Khairul Shafiq
 - [LinkedIn](https://www.linkedin.com/in/khairulshafiq): Direct contact
 - [GitHub](https://github.com/khairulxshafiq): Public record of projects he leads, oversees, or advises on
 - [TanAir](https://tanair.my): AI SaaS for Southeast Asian SMEs, which he founded and leads. Tagline: "One Chat, Many Brains, Any Channel".

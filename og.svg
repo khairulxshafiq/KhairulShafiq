@@ -12,8 +12,7 @@
       font-weight: 100 900;
       font-display: swap;
     }
-    .name { font-family: Fraunces, Georgia, serif; font-weight: 560; font-size: 86px; letter-spacing: -1.2px; fill: #1b1914; }
-    .legal { font-family: Outfit, sans-serif; font-weight: 500; font-size: 28px; fill: #3a342c; }
+    .name { font-family: Fraunces, Georgia, serif; font-weight: 560; font-size: 92px; letter-spacing: -1.4px; fill: #1b1914; }
     .role { font-family: Fraunces, Georgia, serif; font-weight: 520; font-size: 40px; fill: #123f3c; }
     .sub { font-family: Outfit, sans-serif; font-weight: 450; font-size: 22px; fill: #3a342c; }
     .foot { font-family: Outfit, sans-serif; font-weight: 600; font-size: 20px; fill: #514b42; }
@@ -26,11 +25,10 @@
   <rect x="68" y="58" width="72" height="72" rx="16" fill="#123f3c"/>
   <text class="ks" x="104" y="103" text-anchor="middle">KS</text>
   <text class="place" x="1132" y="100" text-anchor="end">SHAH ALAM, MALAYSIA</text>
-  <text class="name" x="68" y="268">Khairul Shafiq</text>
-  <text class="legal" x="68" y="318">Mohammad Khairul Shafiq bin Mohd Nizam</text>
-  <rect x="68" y="352" width="80" height="5" fill="#123f3c"/>
-  <text class="role" x="68" y="418">Technology advisor and solution lead</text>
-  <text class="sub" x="68" y="470">Scopes, architects, oversees delivery, and advises on IT and AI.</text>
+  <text class="name" x="68" y="290">Khairul Shafiq</text>
+  <rect x="68" y="328" width="80" height="5" fill="#123f3c"/>
+  <text class="role" x="68" y="400">Technology advisor and solution lead</text>
+  <text class="sub" x="68" y="458">Scopes, architects, oversees delivery, and advises on IT and AI.</text>
   <rect x="68" y="528" width="1064" height="1" fill="#ddd4c4"/>
   <text class="foot" x="68" y="574">Microsoft 365   ·   Entra ID   ·   Intune   ·   AI architecture</text>
   <text class="url" x="1132" y="574" text-anchor="end">khairulxshafiq.github.io</text>

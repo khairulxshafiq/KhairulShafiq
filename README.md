@@ -1,6 +1,6 @@
 # Khairul Shafiq
 
-Static professional profile for Mohammad Khairul Shafiq (Khairul Shafiq), technology advisor and solution lead.
+Static professional profile for Khairul Shafiq, technology advisor and solution lead.
 
 Published with GitHub Pages from the root of `main`:
 

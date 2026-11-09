@@ -338,18 +338,6 @@ a:visited {
   display: block;
 }
 
-.legal-name {
-  display: block;
-  max-width: 28ch;
-  margin-top: 1rem;
-  font-family: var(--sans);
-  font-weight: 500;
-  font-size: clamp(1rem, 1.5vw, 1.15rem);
-  letter-spacing: 0;
-  line-height: 1.45;
-  color: var(--ink-soft);
-}
-
 .lede {
   max-width: 22ch;
   margin-top: 1.5rem;
